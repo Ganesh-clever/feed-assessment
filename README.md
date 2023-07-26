@@ -6,6 +6,8 @@ Basic description:-
    only we can able to run the code. In the package.json file i included the file path of the build file in the 
    over the script command in the start i mentioned. So in the this based application will be run.
 
+   Log file should be generate from the dist folder inside logs folder.
+
    Build Command:-
                  npm run build
    Run command:-
